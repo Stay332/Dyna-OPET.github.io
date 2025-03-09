@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Dyna-OPET.github.io/sitemap.xml
+Sitemap: https://Stay332.github.io/Dyna-OPET.github.io//sitemap.xml
